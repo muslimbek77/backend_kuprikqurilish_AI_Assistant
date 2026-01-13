@@ -1,0 +1,323 @@
+[
+  {
+    "intent": "bosh_sahifa",
+    "url": "/",
+    "keywords": [
+      "bosh sahifa",
+      "bosh",
+      "home",
+      "asosiy",
+      "uy",
+      "main",
+      "bosh menu"
+    ]
+  },
+  {
+    "intent": "jamiyat_haqida",
+    "url": "/management/about-management",
+    "keywords": [
+      "jamiyat haqida",
+      "biz haqimizda",
+      "kompaniya haqida",
+      "haqida",
+      "about",
+      "tarix",
+      "tariximiz",
+      "kompaniya tarixi",
+      "tashkilot haqida"
+    ]
+  },
+  {
+    "intent": "jamiyat_nizomi",
+    "url": "/management/staute-management",
+    "keywords": [
+      "nizom",
+      "ustav",
+      "jamiyat nizomi",
+      "statute",
+      "qoidalar",
+      "tartib",
+      "asosiy hujjat"
+    ]
+  },
+  {
+    "intent": "tashkiliy_tuzilma",
+    "url": "/management/structure-management",
+    "keywords": [
+      "tuzilma",
+      "tashkiliy tuzilma",
+      "struktura",
+      "structure",
+      "organizatsiya",
+      "bolinmalar",
+      "bolimlar",
+      "tashkilot tuzilishi"
+    ]
+  },
+  {
+    "intent": "rahbariyat",
+    "url": "/management/leadership-management",
+    "keywords": [
+      "rahbariyat",
+      "direktor",
+      "boshqaruv",
+      "rahbarlar",
+      "boshliq",
+      "leadership",
+      "management",
+      "bosh direktor",
+      "raxbar"
+    ]
+  },
+  {
+    "intent": "markaziy_aparat",
+    "url": "/management/inspection-management",
+    "keywords": [
+      "markaziy aparat",
+      "nazorat",
+      "inspection",
+      "markaziy",
+      "aparat",
+      "markaziy boshqarma"
+    ]
+  },
+  {
+    "intent": "tarkibiy_bolinmalar",
+    "url": "/management/branch-management",
+    "keywords": [
+      "tarkibiy bolinmalar",
+      "bolinmalar",
+      "filiallar",
+      "branch",
+      "tarkibiy",
+      "korxonalar"
+    ]
+  },
+  {
+    "intent": "prezident_qarorlari",
+    "url": "/Normative-documents/laws",
+    "keywords": [
+      "prezident qarorlari",
+      "farmon",
+      "qaror",
+      "prezident",
+      "prezident farmonlari",
+      "qonun hujjatlari"
+    ]
+  },
+  {
+    "intent": "vazirlar_mahkamasi",
+    "url": "/Normative-documents/ministers",
+    "keywords": [
+      "vazirlar mahkamasi",
+      "mahkama qarorlari",
+      "ministers",
+      "vazirlar",
+      "hukumat qarorlari"
+    ]
+  },
+  {
+    "intent": "mehnat_muhofazasi",
+    "url": "/Normative-documents/decisions",
+    "keywords": [
+      "mehnat muhofazasi",
+      "xavfsizlik",
+      "sanoat xavfsizligi",
+      "decisions",
+      "mehnat qoidalari",
+      "safety"
+    ]
+  },
+  {
+    "intent": "rasmlar",
+    "url": "/press-center/gallery",
+    "keywords": [
+      "press markazi",
+      "press markazi rasmlari",
+      "rasmlar",
+      "foto",
+      "suratlar",
+      "gallery",
+      "galereya",
+      "fotogalereya",
+      "fotolar",
+      "tasvirlar"
+    ]
+  },
+  {
+    "intent": "videolar",
+    "url": "/press-center/vedio",
+    "keywords": [
+      "video",
+      "videolar",
+      "roliklar",
+      "videoroliklar",
+      "videogalereya",
+      "film"
+    ]
+  },
+  {
+    "intent": "savol_javob",
+    "url": "/press-center/asked",
+    "keywords": [
+      "savol javob",
+      "savol",
+      "javob",
+      "FAQ",
+      "kop beriladigan savollar",
+      "tez-tez beriladigan savollar",
+      "yordam",
+      "help"
+    ]
+  },
+  {
+    "intent": "gazetalar",
+    "url": "/press-center/newspapers",
+    "keywords": [
+      "gazeta",
+      "gazetalar",
+      "matbuot",
+      "nashir",
+      "newspapers",
+      "nashr"
+    ]
+  },
+  {
+    "intent": "yangiliklar",
+    "url": "/news",
+    "keywords": [
+      "yangilik",
+      "yangiliklar",
+      "songgi",
+      "xabar",
+      "news",
+      "yangi xabar",
+      "oxirgi yangilik",
+      "bugungi yangiliklar",
+      "voqealar"
+    ]
+  },
+  {
+    "intent": "aloqa",
+    "url": "/contacts",
+    "keywords": [
+      "aloqa",
+      "boglanish",
+      "telefon",
+      "manzil",
+      "kontakt",
+      "contacts",
+      "qongiroq qilish",
+      "murojaat qilish",
+      "email",
+      "pochta"
+    ]
+  },
+  {
+    "intent": "korrupsiya_hujjatlari",
+    "url": "/corruption/documents",
+    "keywords": [
+      "korrupsiya hujjatlari",
+      "korrupsiyaga qarshi hujjatlar",
+      "idoraviy hujjatlar",
+      "korrupsiya hujjat",
+      "anti corruption documents"
+    ]
+  },
+  {
+    "intent": "korrupsiya_monitoring",
+    "url": "/corruption/monitoring",
+    "keywords": [
+      "korrupsiya monitoring",
+      "korrupsiya nazorat",
+      "korrupsiya kuzatish",
+      "targibbot ishlari",
+      "korrupsiyaga qarshi targibbot"
+    ]
+  },
+  {
+    "intent": "korrupsiya_murojaat",
+    "url": "/corruption/appeals",
+    "keywords": [
+      "korrupsiya murojaat",
+      "korrupsiya shikoyat",
+      "murojaat",
+      "shikoyat",
+      "complaint",
+      "ariza",
+      "ishonch telefoni",
+      "hot line",
+      "korrupsiya xabar berish"
+    ]
+  },
+  {
+    "intent": "monopoliya_komplaens",
+    "url": "/corruption/monopoliyaga-qarshi-komplaens",
+    "keywords": [
+      "monopoliya komplaens",
+      "monopoliyaga qarshi komplaens",
+      "monopoliya",
+      "komplaens",
+      "raqobat",
+      "compliance"
+    ]
+  },
+  {
+    "intent": "korporativ_haqida",
+    "url": "/corporativ/docs",
+    "keywords": [
+      "korporativ haqida",
+      "korporativ",
+      "korporativ boshqaruv",
+      "corporate",
+      "korporativ malumot"
+    ]
+  },
+  {
+    "intent": "korporativ_nazorat",
+    "url": "/corporativ/monitoring",
+    "keywords": [
+      "korporativ nazorat",
+      "boshqaruv va nazorat",
+      "korporativ monitoring",
+      "nazorat korporativ",
+      "boshqaruv nazorati"
+    ]
+  },
+  {
+    "intent": "ochiq_malumotlar",
+    "url": "/corporativ/documents",
+    "keywords": [
+      "ochiq malumotlar",
+      "open data",
+      "statistika",
+      "hisobotlar",
+      "shaffoflik",
+      "transparency",
+      "moliyaviy hisobotlar"
+    ]
+  },
+  {
+    "intent": "ichki_hujjatlar",
+    "url": "/corporativ/ichkihujjatlari",
+    "keywords": [
+      "ichki hujjatlar",
+      "jamiyat hujjatlari",
+      "internal documents",
+      "ichki",
+      "jamiyatning ichki hujjatlari"
+    ]
+  },
+  {
+    "intent": "aksiyadorlar",
+    "url": "/corporativ/Aksiyadorlarga",
+    "keywords": [
+      "aksiyadorlar",
+      "aksiyadorlarga",
+      "shareholders",
+      "aksiya",
+      "investor",
+      "aksiyadorlik"
+    ]
+  }
+]

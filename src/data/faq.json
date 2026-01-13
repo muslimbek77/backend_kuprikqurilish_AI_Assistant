@@ -1,0 +1,228 @@
+{
+  "faqs": [
+    {
+      "id": "ceo_info",
+      "keywords": [
+        "boshqaruv raisi",
+        "rahbar",
+        "ceo",
+        "director",
+        "maxamatov zafar",
+        "rais kim",
+        "rahbar kim",
+        "Boshqaruv raisi kim"
+      ],
+      "question": "Boshqaruv raisi kim?",
+      "answer": "Boshqaruv raisi: Maxamatov Zafar Ergashboyevich\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Dushanba 15:00 - 17:00",
+      "category": "management"
+    },
+    {
+      "id": "first_deputy_ceo",
+      "keywords": [
+        "birinchi orinbosar",
+        "ceo orinbosari",
+        "rahbar orinbosari",
+        "isayev qudrat",
+        "Boshqaruv raisining birinchi o‘rinbosari",
+        "birinchi o‘rinbosar"
+      ],
+      "question": "Boshqaruv raisining birinchi o‘rinbosari kim?",
+      "answer": "Isayev Qudrat Toshpo‘latovich\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Chorshanba 14:00 - 16:00",
+      "category": "management"
+    },
+    {
+      "id": "chief_engineer",
+      "keywords": ["bosh muhandis", "chief engineer", "muhandis"],
+      "question": "Bosh muhandis qabul vaqti qachon?",
+      "answer": "Bosh muhandis\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Payshanba 09:00 - 12:00",
+      "category": "management"
+    },
+    {
+      "id": "finance_deputy",
+      "keywords": [
+        "moliya orinbosari",
+        "finance",
+        "iqtisod",
+        "rajabov abdulxakim",
+        "Moliya-iqtisod bo‘yicha o‘rinbosar",
+        "Boshqaruv raisining moliya-iqtisod bo‘yicha o‘rinbosari"
+      ],
+      "question": "Moliya-iqtisod bo‘yicha o‘rinbosar kim?",
+      "answer": "Rajabov Abdulxakim G‘ulomovich\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Payshanba 14:00 - 16:00",
+      "category": "management"
+    },
+    {
+      "id": "it_deputy",
+      "keywords": [
+        "raqamlashtirish",
+        "it",
+        "axborot texnologiyalari",
+        "axatov zafarbek",
+        "akt buyicha urinbosar kim"
+      ],
+      "question": "Raqamlashtirish va IT bo‘yicha o‘rinbosar kim?",
+      "answer": "Axatov Zafarbek Iskandar o‘g‘li\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Seshanba 14:00 - 16:00",
+      "category": "management"
+    },
+    {
+      "id": "deputy_ceo_1",
+      "keywords": ["kadirov nodirxon"],
+      "question": "Boshqaruv raisining o‘rinbosari (Kadirov) qachon qabul qiladi?",
+      "answer": "Kadirov Nodirxon Abdumuminovich\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Juma 09:00 - 12:00",
+      "category": "management"
+    },
+    {
+      "id": "deputy_ceo_2",
+      "keywords": [
+        "orinbosar",
+        "kamilov farxod",
+        "Boshqaruv raisining o‘rinbosari (Kamilov)"
+      ],
+      "question": "Boshqaruv raisining o‘rinbosari (Kamilov) qachon qabul qiladi?",
+      "answer": "Kamilov Farxod Abduxamidovich\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Juma 14:00 - 16:00",
+      "category": "management"
+    },
+    {
+      "id": "assistant_ceo",
+      "keywords": ["yordamchi", "assistant", "rahbar yordamchisi"],
+      "question": "Boshqaruv raisining yordamchisi qabul vaqti qachon?",
+      "answer": "Boshqaruv raisining yordamchisi\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Chorshanba 09:00 - 12:00",
+      "category": "management"
+    },
+    {
+      "id": "advisor_ceo_1",
+      "keywords": ["maslahatchi", "mirzaxmedov kamoliddin"],
+      "question": "Boshqaruv raisi maslahatchisi (Mirzaxmedov) qachon qabul qiladi?",
+      "answer": "Mirzaxmedov Kamoliddin Uchqunovich\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Juma 14:00 - 18:00",
+      "category": "management"
+    },
+    {
+      "id": "advisor_ceo_2",
+      "keywords": [
+        "maslahatchi",
+        "xonkeldiyev rustamjon",
+        "Boshqaruv raisi maslahatchisi",
+        "Boshqaruv raisi maslahatchisi (Xonkeldiyev)"
+      ],
+      "question": "Boshqaruv raisi maslahatchisi (Xonkeldiyev) qachon qabul qiladi?",
+      "answer": "Xonkeldiyev Rustamjon Maxammadovich\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Payshanba 14:00 - 18:00",
+      "category": "management"
+    },
+    {
+      "id": "architecture_planning_head",
+      "keywords": [
+        "arxitektura boshqarmasi",
+        "qurilishni rejalashtirish",
+        "pozdnyakov aleksandr",
+        "Arxitektura va qurilishni rejalashtirish boshqarmasi boshlig'i",
+        "arxitektura va qurilishni rejalashtirish boshqarmasi"
+      ],
+      "question": "Arxitektura va qurilishni rejalashtirish boshqarmasi boshlig'i kim?",
+      "answer": "Pozdnyakov Aleksandr Alekseyevich\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Dushanba - Juma",
+      "category": "central_apparat"
+    },
+    {
+      "id": "legal_department_head",
+      "keywords": ["yuridik boshqarma", "legal department", "malikov temur"],
+      "question": "Yuridik boshqarmasi boshlig'i kim?",
+      "answer": "Malikov Temur-Malik Fotixovich\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Dushanba - Juma",
+      "category": "central_apparat"
+    },
+    {
+      "id": "procurement_head",
+      "keywords": ["xaridlar boshqarmasi", "shartnomalar", "matnazarov ogaboy"],
+      "question": "Xaridlarni tashkillashtirish va monitoring boshqarmasi boshlig'i kim?",
+      "answer": "Matnazarov Og‘aboy Karimovich\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Dushanba - Juma",
+      "category": "central_apparat"
+    },
+    {
+      "id": "economy_planning_head",
+      "keywords": ["iqtisodiyot boshqarmasi", "istiqbol", "majidov boburjon"],
+      "question": "Iqtisodiyot va istiqbolni belgilash boshqarmasi boshlig'i kim?",
+      "answer": "Majidov Boburjon Mustafo o‘g‘li\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Dushanba - Juma",
+      "category": "central_apparat"
+    },
+    {
+      "id": "mechanization_energy_head",
+      "keywords": [
+        "mexanizatsiya",
+        "energetika",
+        "mehnat muhofazasi",
+        "alimov otabek"
+      ],
+      "question": "Mexanizatsiyalash va energetika boshqarmasi boshlig'i kim?",
+      "answer": "Alimov Otabek Maxmudovich\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Dushanba - Juma",
+      "category": "central_apparat"
+    },
+    {
+      "id": "production_contracting_head",
+      "keywords": ["ishlab chiqarish", "pudrat", "xonkeldiyev davron"],
+      "question": "Ishlab chiqarish va pudrat ishlari boshqarmasi boshlig'i kim?",
+      "answer": "Xonkeldiyev Davron Inomjonovich\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Dushanba - Juma",
+      "category": "central_apparat"
+    },
+    {
+      "id": "accounting_head",
+      "keywords": ["buxgalteriya", "bosh hisobchi", "xamidinov alisher"],
+      "question": "Buxgalteriya bo‘limi boshlig‘i kim?",
+      "answer": "Xamidinov Alisher Gafurovich\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Dushanba - Juma",
+      "category": "central_apparat"
+    },
+
+    {
+      "id": "digital_department_head_mamadaliyev",
+      "keywords": [
+        "raqamlashtirish bo‘limi boshlig'i",
+        "it bo‘limi boshlig'i",
+        "mamadaliyev abdulmajit",
+        "abdulmajit mamadaliyev",
+        "akt bo‘limi"
+      ],
+      "question": "Raqamlashtirish bo‘limi boshlig'i kim?",
+      "answer": "Mamadaliyev Abdulmajit Ma'rufjon o‘g‘li\nLavozimi: Raqamlashtirish bo‘limi boshlig‘i\nTelefon: +998 (71) 203-26-26\nIsh kunlari: Dushanba - Juma",
+      "category": "central_apparat"
+    },
+    {
+      "id": "office_control_head",
+      "keywords": ["devonxona", "ijro nazorati", "xojalik ishlari"],
+      "question": "Devonxona va ijro nazorati boshqarmasi qabul vaqti qachon?",
+      "answer": "Devonxona, ijro nazorati va xo‘jalik ishlarini yuritish boshqarmasi\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Dushanba - Juma",
+      "category": "central_apparat"
+    },
+    {
+      "id": "anti_corruption_head",
+      "keywords": ["korrupsiya", "komplayns", "nazorat", "tursunbayev farrux"],
+      "question": "Korrupsiyaga qarshi komplayns boshqarmasi boshlig'i kim?",
+      "answer": "Tursunbayev Farrux Jurabay o‘g‘li\nTelefon: +998 (77) 208-26-26\nQabul kunlari: Dushanba - Juma",
+      "category": "central_apparat"
+    },
+    {
+      "id": "hr_department_head",
+      "keywords": [
+        "kadrlar boshqarmasi",
+        "hr boshqarmasi",
+        "abdullayev shuxrat"
+      ],
+      "question": "Personallarni boshqarish va kadrlarni tayyorlash boshqarmasi boshlig'i kim?",
+      "answer": "Raximbabayeva Lola Amurdjanovna\n\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Dushanba - Juma",
+      "category": "central_apparat"
+    },
+    {
+      "id": "job_vacancy_info",
+      "keywords": [
+        "vakansiya",
+        "vakansiya bormi",
+        "bo'sh ish o'rni",
+        "bo'sh ish o'rni bormi",
+        "ishga qabul",
+        "ish bormi",
+        "ish o'rni",
+        "bush ish urni bormi",
+        "bo‘sh ish o‘rinlari"
+      ],
+      "question": "Hozirda vakansiya yoki bo‘sh ish o‘rinlari bormi?",
+      "answer": "Hozirda mavjud vakansiyalar haqida aniq ma’lumot olish uchun Personallarni boshqarish va kadrlarni tayyorlash boshqarmasiga murojaat qilishingiz mumkin.\n\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Dushanba – Juma",
+      "category": "central_apparat"
+    }
+  ]
+}
