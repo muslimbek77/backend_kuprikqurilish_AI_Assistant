@@ -206,23 +206,6 @@
       "question": "Personallarni boshqarish va kadrlarni tayyorlash boshqarmasi boshlig'i kim?",
       "answer": "Raximbabayeva Lola Amurdjanovna\n\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Dushanba - Juma",
       "category": "central_apparat"
-    },
-    {
-      "id": "job_vacancy_info",
-      "keywords": [
-        "vakansiya",
-        "vakansiya bormi",
-        "bo'sh ish o'rni",
-        "bo'sh ish o'rni bormi",
-        "ishga qabul",
-        "ish bormi",
-        "ish o'rni",
-        "bush ish urni bormi",
-        "bo‘sh ish o‘rinlari"
-      ],
-      "question": "Hozirda vakansiya yoki bo‘sh ish o‘rinlari bormi?",
-      "answer": "Hozirda mavjud vakansiyalar haqida aniq ma’lumot olish uchun Personallarni boshqarish va kadrlarni tayyorlash boshqarmasiga murojaat qilishingiz mumkin.\n\nTelefon: +998 (71) 203-26-26\nQabul kunlari: Dushanba – Juma",
-      "category": "central_apparat"
     }
   ]
 }

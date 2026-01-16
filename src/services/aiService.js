@@ -36,7 +36,9 @@ function matchFAQ(query) {
     "chi",
     "nima",
     "qanday",
+    "bormi",
   ];
+
   const queryWords = q
     .split(/\s+/)
     .filter((word) => word.length > 2 && !stopWords.includes(word));
@@ -61,31 +63,32 @@ function matchFAQ(query) {
         score += 50;
         matchedKeywords.push(keyword);
       }
-      // MULTI-WORD MATCH
+      // MULTI-WORD MATCH - CHECK WORD BOUNDARIES
       else {
         const keywordWords = keywordLower.split(/\s+/);
-        const allWordsMatch = keywordWords.every((kw) =>
-          queryWords.some((qw) => qw.includes(kw) || kw.includes(qw))
+
+        // ✅ FIX: Use exact word matching, not substring
+        const matchedWords = queryWords.filter((qw) =>
+          keywordWords.some((kw) => qw === kw || kw === qw)
         );
 
-        if (allWordsMatch && keywordWords.length > 1) {
+        if (
+          matchedWords.length > 0 &&
+          matchedWords.length === keywordWords.length
+        ) {
+          // All keyword words found in query
           score += 30 * keywordWords.length;
           matchedKeywords.push(keyword);
-        }
-        // SINGLE WORD MATCH
-        else if (
-          keywordWords.length === 1 &&
-          queryWords.some(
-            (qw) => qw.includes(keywordWords[0]) || keywordWords[0].includes(qw)
-          )
-        ) {
-          score += 10;
+        } else if (matchedWords.length > 0) {
+          // Partial match
+          score += 10 * matchedWords.length;
           matchedKeywords.push(keyword);
         }
       }
     }
 
-    if (score > highestScore && score >= 10) {
+    if (score > highestScore && score >= 30) {
+      // ✅ Increased threshold
       highestScore = score;
       bestMatch = {
         ...faq,

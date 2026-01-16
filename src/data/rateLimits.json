@@ -1,12 +1,7 @@
 {
-  "::ffff:192.168.200.89_1m89vp": {
-    "count": 7,
-    "firstRequest": 1768220946009,
-    "lastRequest": 1768221101240
-  },
   "::ffff:192.168.200.72_n2uwxv": {
     "count": 1,
-    "firstRequest": 1768222065610,
-    "lastRequest": 1768222065610
+    "firstRequest": 1768538056631,
+    "lastRequest": 1768538056631
   }
 }

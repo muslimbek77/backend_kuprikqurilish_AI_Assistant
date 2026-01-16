@@ -319,5 +319,21 @@
       "investor",
       "aksiyadorlik"
     ]
+  },
+  {
+    "intent": "job_vacancy_info",
+    "url": "/management/vacancy-management",
+    "keywords": [
+      "vakansiya",
+      "vakansiya bormi",
+      "bo'sh ish o'rni",
+      "bo'sh ish o'rni bormi",
+      "bush ish urinlari bormi?",
+      "ishga qabul",
+      "ish bormi",
+      "ish o'rni",
+      "bush ish urni bormi",
+      "bo‘sh ish o‘rinlari"
+    ]
   }
 ]
